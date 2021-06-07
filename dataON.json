@@ -24,8 +24,8 @@
         "image": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/1.png"
       },
       {
-        "title": "Swipe Down in Mid-Air to Perform a “Super Slam”",
-        "image": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/9.png"
+        "title": "Swipe Down in Mid-Air “Super Slam”",
+        "image": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/8.png"
       },
       {
         "title": "Practice Side-Swiping in Mid-Air ",
@@ -36,12 +36,21 @@
         "image": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/2.png"
       },
       {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg"
+        "title": "Use the Super Jumps",
+        "image": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/4.png"
       },
       {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg"
+        "title": "Go for the Power-Up and Save the World",
+        "image": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/10.png"
+      },
+      {
+        "title": "Amazing Places And New Heroes",
+        "image": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/6.png"
+      },
+
+      {
+        "title": "How to Beat the Boss Raccoon",
+        "image": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/6.png"
       }
     ],
 
@@ -51,7 +60,7 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "center",
         "left": "10",
-        "text_size": "25",
+        "text_size": "30",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "Tom Hero Dash Tips & Tricks You Need to Know",
@@ -62,7 +71,7 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
-        "text_size": "20",
+        "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "Talking Tom and his gang of cutesy critters are back for another mobile adventure!.",
@@ -73,7 +82,7 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
-        "text_size": "25",
+        "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG0.png",
         "text": "This time, you’ll need to save Talking Tom’s world from a group of nasty raccoons who are out to cause trouble. Talking Tom Hero Dash lets you take control of Tom, Hank, Ginger, Ben and Angela in a new infinite runner that taps into their superhero abilities. There’s a ton of cool maneuvers to pull off, plenty of collectibles to nab, and heroic feats to fulfill during your time spent as an anthropomorphic superhero. Thanks to the Talking Tom handlers at Outfit7, we have a tips guide full of useful advice for would-be superheroes!.",
@@ -84,7 +93,7 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
-        "text_size": "25",
+        "text_size": "22",
         "isLink": "true","link_title": "Open The Game","setLink": "com.outfit7.herodash",
         "image_link": "",
         "text": "Here are the top 10 tips, tricks, and cheats you need to know for Talking Tom Hero Dash:",
@@ -108,21 +117,10 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Swipe Down in Mid-Air to Perform a “Super Slam”",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG1.png",
-        "text": "The tutorial in Talking Tom Hero Dash gives you the fundamentals , but there’s one powerful move that you simply actually get to get for yourself (or by us telling you right now). Try jumping then swiping down before you land. You’ll perform an excellent Slam, which can hit the raccoons ahead of you altogether three lanes.",
+        "text": "The tutorial in Talking Tom Hero Dash gives you the fundamentals , but there’s one powerful move that you simply actually get to get for yourself (or by us telling you right now). Try jumping then swiping down before you land. You’ll perform an excellent Slam, which can hit the raccoons ahead of you altogether three lanes. In Talking Tom Hero Dash, The Rakoonz are back, and this time, they’re on a mission to destroy the world. Tom’s ready to step into his hero suit, activate his super powers and start saving the day.",
         "isNative": "true"
       },
       {
@@ -131,9 +129,20 @@
         "gravity": "left",
         "left": "5",
         "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "com.outfit7.herodash",
+        "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "In Talking Tom Hero Dash, The Rakoonz are back, and this time, they’re on a mission to destroy the world. Tom’s ready to step into his hero suit, activate his super powers and start saving the day.",
+        "text": "SAVE TOM’S FRIENDS",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.outfit7.herodash",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG12.png",
+        "text": "The Rakoonz have captured Talking Angela, Talking Ben, Talking Ginger and Talking Hank so it’s time for Super Tom to intensify and save them! Start running to the rescue and free Moonlight Angela, Hurricane Hank, Mighty Ginger and lots of more super versions of your favorite friends\n",
         "isNative": "true"
       }
     ],
@@ -156,19 +165,30 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Side-swiping in mid-air is a tricky but important skill to learn in the game.",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG3.png",
+        "text": "Side-swiping in mid-air is a tricky but important skill to learn in the game. There are some sections where you need to do it in order to survive – if you’re not used to doing it, you’re likely to fumble it. So we suggest practicing mid-air side-swiping at more low-pressure moments. Like if you’re running on top of a bus and there’s another bus approaching in a different lane, jump sideways to get to the next bus. Once you get used to doing it, those rooftop sections will get much easier.",
         "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Use the Shield as a Weapon.",
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
-        "text_size": "25",
+        "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG3.png",
-        "text": "There are some sections where you need to do it in order to survive – if you’re not used to doing it, you’re likely to fumble it. So we suggest practicing mid-air side-swiping at more low-pressure moments. Like if you’re running on top of a bus and there’s another bus approaching in a different lane, jump sideways to get to the next bus. Once you get used to doing it, those rooftop sections will get much easier.",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG10.png",
+        "text": "You might think that the shield power-up is just for defense, right? Wrong! The shield also works as an offensive weapon. If you hit an obstacle with the shield on, it’ll cause a shockwave that hits raccoons, collects coins, and destroys obstacles in all three lanes ahead of you. It’s basically like a less powerful version of the superpower shockwave. So if you have the shield on and it starts to flash, don’t waste it. Smash into something quick before the shield expires and rely on the superhero shockwave until you activate your shield again.\n\n",
         "isNative": "true"
       }
 
@@ -192,9 +212,20 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": " they could be armed with all kinds of weapons, from jackhammers to bathroom plungers, but the raccoons can’t actually hurt you. In fact, once you run into them, you only slap them out of the way, putting an abrupt end to their riotous mischief. and therefore the more raccoons you hit, the more Super Chests you’ll get. you'll even hit the large raccoons that you’ll meet afterward , but you’ll got to hit them twice, or 3 times if they’re wearing armor.\n",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG4.png",
+        "text": "They might be armed with all sorts of weapons, from jackhammers to toilet plungers, but the raccoons can’t actually hurt you. In fact, when you run into them, you just slap them out of the way, putting an abrupt end to their riotous mischief. And the more raccoons you hit, the more Super Chests you’ll get. You can even hit the big raccoons that you’ll meet later on, but you’ll need to hit them twice, or three times if they’re wearing armor.\n\n",
         "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "More Risk = More Reward.",
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -203,8 +234,196 @@
         "left": "5",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG4.png",
-        "text": "Let the battle commence! It’s Talking Tom vs. the desert boss. Who do you think is going to win in this standoff between the forces of good and evil?\n\nIt all depends on the player! Watch and see how a pro does it in this epic extended gameplay. After all, only ONE in 20 players makes it this far. This is a SUPER showdown and it’s about to begin in 3… 2… 1!\n\n",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG9.png",
+        "text": "Like many games, Talking Tom Hero Dash is designed with a risk/reward balance in mind – in order to get the most out of each run, you have to take some risk. This usually means swiping late to avoid obstacles, so that you can get the coins placed right in front of them (just to tempt you). To start with, focus on surviving and getting used to the controls. But once you get more confident, start taking more risks. You’ll get more rewards this way, and the game gets even more fun and challenging.\n\n",
+        "isNative": "true"
+      }
+
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Use the Super Jumps.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG5.png",
+        "text": "If you see a set of three arrows pointing up, run into it. It’ll make you jump really high – so high it’ll feel like you’re flying for a few moments. Apart from looking really cool, there’s always a long arc of coins after a Super Jump, so you’ll get rewarded for performing it too.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Complete Special Events.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG8.png",
+        "text": "After you’ve saved the first city and rescued Talking Angela, you’ll see a spinning, holographic globe on the main game screen. Tap that to check what Special Events are currently running. These offer valuable rewards, but they do have time limits. So don’t get 90-percent of the way to an event target and then forget to come back to the game for a day or two. All that effort might go to waste. Special Events that award Credits (the little red cards) are particularly worth doing, as Credits are a rare and valuable currency.\n\n",
+        "isNative": "true"
+      }
+
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Don’t Forget to Save the World",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG6.png",
+        "text": " The running part of Talking Tom Hero Dash is so much fun that it’s easy to forget that you have a higher purpose, to save the world! If you go to the city screen, you’ll find raccoons all over your current location, breaking stuff and making a mess. You need to spend coins and gems (only found in chests) to get rid of them and then, once you’ve cleared a whole location, you have to beat the “Raccoon Boss” to unlock a new character and new location. Also, every time you get rid of some raccoons and make some repairs, your score multiplier increases, so saving the world allows you to beat your own high score, as well as unlock more characters and levels.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Always Go for the Power-Up",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG7.png",
+        "text": "• It’s not always easy to choose which lane is the best in this game. Obviously, you want to avoid obstacles, but it’s not so easy to choose between collecting coins and hitting raccoons. That particular choice is usually about 50/50. But if one lane has a power-up in it, you should always go for the power-up. You might miss a few coins or raccoons, but the benefit of the power-up will always outweigh whatever items you miss out on.\n\n",
+        "isNative": "true"
+      }
+
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "GET AWESOME GADGRACE IN AMAZING PLACES.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG13.png",
+        "text": "Explore weird and wonderful worlds like you’ve never seen. Dash over desert dunes, go surfing on tropical beaches, snowboard in icy mountains and scooting through secret temples. Play special missions and events in these running worlds, too.\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "UNLOCK NEW HERO OUTFITS.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG14.png",
+        "text": "Unlock super cool versions of hero Tom and the friends as you race. Find Jet Black Tom, Planet Power Tom, Queen Bee Angela, Gold Flash Tom, Rockstar Ginger and many many more as you play.\n",
+        "isNative": "true"
+      }
+
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "How to Beat the Boss Raccoon.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG15.png",
+        "text": "The Boss Raccoon isn’t as mean as he looks. There are just two things to remember. First, look out for the red markers on the ground. They tell you where the Boss is about to drop obstacles, so you can avoid them. The second part of the boss battle is easy. Don’t worry about when or where you’re tapping – just tap and do it fast! As long as you keep tapping, you’ll slap the Boss about and free your friend from the cage. Just like a true hero!\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "center",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Those who enjoy Talking Tom games such as My Talking Tom 2.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://raw.githubusercontent.com/tonytwingames/FakeOut/main/IMG11.png",
+        "text": "Those who enjoy Talking Tom games such as My Talking Tom 2, My Talking Angela, My Talking Tom Friends, and runner games such as Talking Tom Gold Run will love this game, as will players who like to jump obstacles, crash through roadblocks and rush through exciting temple worlds. Download Talking Tom Hero Dash for free!\n",
         "isNative": "true"
       }
 
